@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="MOIC-LN logo">
+  <defs>
+    <linearGradient id="moicGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ea580c"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#0a0e14"/>
+  <path d="M25 11h14l11 42H14z" fill="url(#moicGradient)"/>
+  <path d="M32 18v6M32 29v6M32 40v6" stroke="#0a0e14" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M21 49h-4M47 49h-4" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" opacity=".7"/>
+</svg>
